@@ -9,7 +9,7 @@ function EOM() {
 }
 
 export const getServerSideProps = async pageContext()=>{
-    const apiResponse = await fetch(``)
+    const apiResponse = await fetch(`https://my-json-server.typicode.com/Fayzullaev99/news-app-nextjs`)
 }
 
 export default EOM

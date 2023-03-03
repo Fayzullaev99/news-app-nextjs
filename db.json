@@ -1,6 +1,8 @@
 {
-    "name": "Sanjar",
-    "position": "Full Stack Developer",
-    "image": "https://scontent.ftas1-1.fna.fbcdn.net/v/t39.30808-1/331313969_1346925032827485_7730825238041662668_n.jpg?stp=dst-jpg_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=9WtyAxjNuzUAX8zYS5y&_nc_ht=scontent.ftas1-1.fna&oh=00_AfAXUwZBN955sa9cm6qeZU98l3vccG9XhUAAlkoweNqIuA&oe=64060548",
+    "employeeOfTheMonth": {
+      "name": "Sanjar",
+      "position": "Full Stack Developer",
+      "image": "https://scontent.ftas1-1.fna.fbcdn.net/v/t39.30808-1/331313969_1346925032827485_7730825238041662668_n.jpg?stp=dst-jpg_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=9WtyAxjNuzUAX8zYS5y&_nc_ht=scontent.ftas1-1.fna&oh=00_AfAXUwZBN955sa9cm6qeZU98l3vccG9XhUAAlkoweNqIuA&oe=64060548",
     "description": "Teacher from beginner to master"
+    }
   }
